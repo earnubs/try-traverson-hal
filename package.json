@@ -1,0 +1,16 @@
+{
+  "name": "try-traverson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Stewart <stephen.stewart@canonical.com>",
+  "license": "ISC",
+  "dependencies": {
+    "traverson": "^3.0.0",
+    "traverson-hal": "^4.0.0"
+  }
+}
